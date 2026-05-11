@@ -17,6 +17,8 @@ Ctrl+Alt+Deleted Team (CAD Team) — cadteam.ru
 # Страницы 
 Политика-voxgram.ru/terms.php
 Помощь-voxgram.ru/help.php
+Вход-voxgram.ru/login.php
+Регистарция-voxgram.ru/register.php
 # Связь с разработчиком
 На сайте cadteam.ru
 Или
